@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.contain{
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: pink;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    background-color: rgb(178, 105, 117);
+}
